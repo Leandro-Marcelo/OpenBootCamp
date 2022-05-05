@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 46px;
+    font-family: sans-serif;
+}
+
+p {
+    color: red;
+}
+
+.miparrafo {
+    color: blue;
+}
+
+div p {
+    color: violet;
+}
+
+div .miparrafo {
+    color: lime;
+}
